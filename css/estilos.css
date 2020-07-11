@@ -326,7 +326,7 @@ body {
 }
 }
 
-@media (min-width: 350px) and (max-width: 640px) {
+@media (min-width: 320px) and (max-width: 640px) {
 	.contenedor {
 		width: 90%;
 		max-width: 1000px;
